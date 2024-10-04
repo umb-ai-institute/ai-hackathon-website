@@ -75,10 +75,10 @@ Create an application that helps forecast UMB shuttle arrival times and how crow
 - Building a Cover Letter/Resume utilizing AI for assistance talk with Kurt Klopmeier (ACES, our Career Services): Come join this collaborative talk with the team at ACES to discuss not only the proper steps to take to make an effective resume and cover letter, but also how we can incorporate AI as a learning tool to assist in this process!
 
   
-<!--
+
 ## Schedule
 
-- **10/7**: Open registration for the Hackathon. Registration is not required for participation but will help us plan food and prizes.
+- **10/6**: Open registration link for the Hackathon. 
   
 - (Exact dates and times TBD. Propose **10/7, 10/8**): Days for Mike and Kate to give hybrid talks (Mike will be remote, and Kate may be available on campus) on how to successfully design a project for a Hackathon. Their primary talk will be on validation and scoping of projects.
   
@@ -96,5 +96,4 @@ Create an application that helps forecast UMB shuttle arrival times and how crow
   
 - **10/30**: Prizes will be awarded and presentations given during the AI Symposium.
 
-For each hybrid event (Mike and Kate’s talks, Kick-off, and Closing ceremonies), we will have A/V set up for all participants to see and hear each other. Conference room equipment will facilitate this.
--->
+
