@@ -1,4 +1,4 @@
-# Hackathon Rules
+# 2024 Fall AI Application Hackathon
 
 ## Overview
 
