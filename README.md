@@ -75,7 +75,7 @@ Create an application that helps forecast UMB shuttle arrival times and how crow
 - Michael, from Paul English’s team, will guide you through one of the toughest aspects of a hackathon: selecting the right problem. Come listen to Michael Burke discuss how to identify high-impact problems that can help both newcomers and veterans alike to focus on what matters to succeed!
 
 ### Kurt Klopmeier's Hybrid Zoom Talk 
-- October 10th, 12:00 PM to 1:00 PM
+- October 9th, 12:00 PM to 1:00 PM
 - Location: Campus Center Room 3545; Room Subject To Change
 - Zoom Link: [https://umassboston.zoom.us/j/94215755616](https://umassboston.zoom.us/j/94215755616)
 - Building a Cover Letter/Resume utilizing AI for assistance talk with Kurt Klopmeier (ACES, our Career Services): Come join this collaborative talk with the team at ACES to discuss not only the proper steps to take to make an effective resume and cover letter, but also how we can incorporate AI as a learning tool to assist in this process!
