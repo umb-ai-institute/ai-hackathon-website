@@ -89,7 +89,7 @@ Create an application that helps forecast UMB shuttle arrival times and how crow
 - **Monday 10/7 2-3PM**: Kate Tyschenko's - Hybrid Zoom Talk [https://umassboston.zoom.us/s/94324204193](https://umassboston.zoom.us/s/94324204193)
 - **10/7-10/20**: Hackathon
 - **Tuesday 10/8 2-3PM**: Mike Burke's - Hybrid Zoom Talk [https://umassboston.zoom.us/s/96847088237](https://umassboston.zoom.us/s/96847088237)
-- **Thursday 10/10 12-1PM**: Kurt Klopmeier's Hybrid Zoom Talk - [https://umassboston.zoom.us/j/94215755616](https://umassboston.zoom.us/j/94215755616)
+- **Wednesday 10/9 12-1PM**: Kurt Klopmeier's Hybrid Zoom Talk - [https://umassboston.zoom.us/j/94215755616](https://umassboston.zoom.us/j/94215755616)
 - **Sunday 10/20 Noon**, teams will submit their work for review. A closing ceremony will provide participants a chance to debrief, talk with others,
   and enjoy refreshments.
 - Team submissions will be given to the Provost and Paul English to judge.
