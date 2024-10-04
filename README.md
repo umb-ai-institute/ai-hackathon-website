@@ -4,25 +4,25 @@
 
 Teams will participate in a Hackathon to advance an applied AI project of their choosing over the days of **10/7-10/20**.
 
-## What is a Hackathon?
+### What is a Hackathon?
 
 A Hackathon is a short period of intense and focused work to complete a project. The name is a portmanteau of “hack,” meaning to crudely shape or work, and “marathon,” a long race. The ambition of a hackathon is to put aside distractions and achieve something that might not otherwise be accomplished due to its ambitious nature or competing responsibilities. Hackathons have enabled many ideas to receive the attention they might not otherwise get.
 
-## Project Statement
+### Project Statement
 
 Teams should agree on a problem they wish to solve and how they aim to solve it. The project statement should describe a modest problem that is achievable in a few days. Teams are not expected to complete every part of their problem statement, but in the spirit of a hackathon, they should make significant progress. Projects are not required to be technical; in fact, non-technical projects are encouraged. Solve a problem leveraging what AI can help you achieve beyond current capabilities.
 
 Two members of Paul English’s team will be available to help guide and shape project statements into achievable goals.
 
-## Results
+### Results
 
 Teams will submit their results in the form of a working demo or “slide-ware.” Slide-ware is when the idea is thoroughly explored and presented but not built, ideal for projects that involve more technical work than can realistically be accomplished in the allotted time. Working demos are any tools that are usable to show the function of the team’s project.
 
-## Team Size and Composition
+### Team Size and Composition
 
 Teams should consist of at least 2 and at most 8 members. We recommend teams around 6 or 7. Teams will often divide work into multiple skill sets, such as technical, design, communication, and business. While projects are not required to be technical, we encourage teams to seek out and include at least one technically experienced member to advise on state-of-the-art solutions.
 
-## Judgement and Prizes
+### Judgement and Prizes
 
 Teams will be judged by the Provost and Paul English on merit, innovation, execution, and creativity (TBD). Each winning team will be awarded **$1,000** and invited to present during the AI Symposium on **October 30th**.
 
@@ -30,21 +30,10 @@ Teams will be judged by the Provost and Paul English on merit, innovation, execu
 
 Create an application that helps forecast UMB shuttle arrival times and how crowded it is.
 
-# AI Applications Hackathon 2024
+## Registration & Submission
 
-## Execution Plan
-
-- Prepare rooms, refreshments, accommodations, and equipment for various events.
-- Invite students to register for the Hackathon.
-- Hold demos and workshops to help encourage students to envision projects.
-- Paul English’s Team will deliver talks on AI and scoping projects.
-- Hold the Hackathon:
-  - Kick-off event to get teams to meet and talk.
-  - Teams work on projects and receive mentorship from Paul’s Team, SAC, and other volunteers.
-- The Hackathon closes with refreshments, a mixer, and participation prizes.
-- Provost and Paul English will receive project submissions to judge.
-- Winning teams will be notified and invited to present during the AI Symposium.
-- For student dissemination, create a poster with a stub reference to more details, like this document.
+- Registration Form: 
+- Submission Form: 
 
 ## Guests from Paul’s Team
 
