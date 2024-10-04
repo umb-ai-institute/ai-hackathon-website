@@ -1,5 +1,16 @@
 # 2024 Fall AI Application Hackathon
 
+## Registration & Submission
+
+- Registration Form: (Will be available on Oct 7th until Oct 20th)
+- Submission Form: (Will be available on Oct 14th until Oct 20th)
+
+## Contact and Questions
+For help with team projects and technical help, reach out on Teams.
+
+For questions about the Hackathon rules, email us at ai@umb.edu or ai.sac@umb.edu.
+
+
 ## Overview
 
 Teams will participate in a Hackathon to advance an applied AI project of their choosing over the days of **10/7-10/20**.
@@ -49,11 +60,6 @@ Teams should consist of at least 2 and at most 8 members. We recommend teams aro
 
 Create an application that helps forecast UMB shuttle arrival times and how crowded it is.
 
-## Registration & Submission
-
-- Registration Form: (Will be available on Oct 7th until Oct 20th)
-- Submission Form: (Will be available on Oct 14th until Oct 20th)
-
 ## AI Hackathon Kick-off Events
 
 ### Kate Tyshchenko's Hybrid Zoom Talk
@@ -78,22 +84,16 @@ Create an application that helps forecast UMB shuttle arrival times and how crow
 
 ## Schedule
 
-- **10/6**: Open registration link for the Hackathon. 
-  
-- (Exact dates and times TBD. Propose **10/7, 10/8**): Days for Mike and Kate to give hybrid talks (Mike will be remote, and Kate may be available on campus) on how to successfully design a project for a Hackathon. Their primary talk will be on validation and scoping of projects.
-  
-- **10/7-10/20**: Noon AI Applications Hackathon.
-  
-  - On **Monday 10/7 – Noon**, we will have our kick-off event. Participants who are able will gather on campus to enjoy refreshments and talk with other participants. Some teams may overlap, merge, or reform; this is okay.
-  
-  - During the week, teams will work on their projects. Kate and Mike have volunteered to help mentor teams, especially with regard to their project scope and execution.
-  
-  - On **Sunday 10/20 Noon**, teams will submit their work for review. A closing ceremony will provide participants a chance to debrief, talk with others, and enjoy refreshments and participation prizes (e.g., t-shirts).
-  
-  - Team submissions will be given to the Provost and Paul English to judge.
-  
-- **10/27**: Winning teams will be notified and invited to talk at the AI Symposium.
-  
-- **10/30**: Prizes will be awarded and presentations given during the AI Symposium.
+- **Sunday 10/6**: Open registration link for the Hackathon.
+- **Monday 10/7 Noon**: Noon AI Applications Hackathon starts. Food and freshments.
+- **Monday 10/7 2-3PM**: Kate Tyschenko's - Hybrid Zoom Talk [https://umassboston.zoom.us/s/94324204193](https://umassboston.zoom.us/s/94324204193)
+- **10/7-10/20**: Hackathon
+- **Tuesday 10/8 2-3PM**: Mike Burke's - Hybrid Zoom Talk [https://umassboston.zoom.us/s/96847088237](https://umassboston.zoom.us/s/96847088237)
+- **Thursday 10/10 12-1PM**: Kurt Klopmeier's Hybrid Zoom Talk - [https://umassboston.zoom.us/j/94215755616](https://umassboston.zoom.us/j/94215755616)
+- **Sunday 10/20 Noon**, teams will submit their work for review. A closing ceremony will provide participants a chance to debrief, talk with others,
+  and enjoy refreshments.
+- Team submissions will be given to the Provost and Paul English to judge.
+- **Sunday 10/27 Noon**: Winning teams will be notified and invited to talk at the AI Symposium.
+- **Wednesday 10/30**: Prizes will be awarded and presentations given during the AI Symposium.
 
 
