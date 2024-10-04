@@ -24,17 +24,19 @@ Teams should consist of at least 2 and at most 8 members. We recommend teams aro
 
 ### Judgement Criteria
 
-1) **Impact** <br>
+- **Impact** <br>
   What is the impact of your solution or proposal?
   Is it novel?
   Will it help or its impact be noticed by many people?
   Are you improving on the state of the art?
   Are you doing better than an existing company?
-2) **Demo** <br>
+  
+- **Demo** <br>
   Is your product/solution easy to understand or use?
   Does it clearly address the problem you are solving?
   Does your demo have straight-forward problems to resolve?
-3) **Presentation** <br>
+
+- **Presentation** <br>
   Is your presentation well-organized?
   Is it clear and persuasive?
   Are you well-spoken and articulate with stage presence?
