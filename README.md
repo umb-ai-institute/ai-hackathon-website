@@ -22,9 +22,26 @@ Teams will submit their results in the form of a working demo or “slide-ware.�
 
 Teams should consist of at least 2 and at most 8 members. We recommend teams around 6 or 7. Teams will often divide work into multiple skill sets, such as technical, design, communication, and business. While projects are not required to be technical, we encourage teams to seek out and include at least one technically experienced member to advise on state-of-the-art solutions.
 
-### Judgement and Prizes
+### Judgement Criteria
 
-Teams will be judged by the Provost and Paul English on merit, innovation, execution, and creativity (TBD). Each winning team will be awarded **$1,000** and invited to present during the AI Symposium on **October 30th**.
+1) **Impact** <br>
+  What is the impact of your solution or proposal?
+  Is it novel?
+  Will it help or its impact be noticed by many people?
+  Are you improving on the state of the art?
+  Are you doing better than an existing company?
+2) **Demo** <br>
+  Is your product/solution easy to understand or use?
+  Does it clearly address the problem you are solving?
+  Does your demo have straight-forward problems to resolve?
+3) **Presentation** <br>
+  Is your presentation well-organized?
+  Is it clear and persuasive?
+  Are you well-spoken and articulate with stage presence?
+  Do you highlight how the product will impact the lives of others?
+
+### Prizes
+   Each winning team will be awarded **$1,000** and invited to present during the AI Symposium on **October 30th**.
 
 ### Example
 
@@ -32,28 +49,28 @@ Create an application that helps forecast UMB shuttle arrival times and how crow
 
 ## Registration & Submission
 
-- Registration Form: (Will be available on Oct 7th)
-- Submission Form: (Will be available on Oct 14th)
+- Registration Form: (Will be available on Oct 7th until Oct 20th)
+- Submission Form: (Will be available on Oct 14th until Oct 20th)
 
 ## AI Hackathon Kick-off Events
 
-Kate Tyshchenko's Hybrid Zoom Talk
-October 7th, 2:00 PM to 3:00 PM 
-Location: Web Lab M03-732
-Zoom Link: https://umassboston.zoom.us/s/94324204193
-Minimum Viable Product (MVP) Talk with Kate Tyshchenko: A Minimum Viable Product is the simplest version of a product that can be released to test an idea with users.  Kate, from Paul English’s team, will discuss key strategies and practical tools (including AI tools) that can be used to speed up the process of creating a MVP to gather early user feedback and reduce risk.
+### Kate Tyshchenko's Hybrid Zoom Talk
+- October 7th, 2:00 PM to 3:00 PM 
+- Location: Web Lab M03-732
+- Zoom Link: [https://umassboston.zoom.us/s/94324204193](https://umassboston.zoom.us/s/94324204193)
+- Minimum Viable Product (MVP) Talk with Kate Tyshchenko: A Minimum Viable Product is the simplest version of a product that can be released to test an idea with users.  Kate, from Paul English’s team, will discuss key strategies and practical tools (including AI tools) that can be used to speed up the process of creating a MVP to gather early user feedback and reduce risk.
 
-Michael Burke's Hybrid Zoom Talk 
-October 8th, 2:00 PM to 3:00 PM
-Location: Web Lab M03-732
-Zoom Link: https://umassboston.zoom.us/s/96847088237
-Michael, also from Paul English’s team, will guide you through one of the toughest aspects of a hackathon: selecting the right problem. Come listen to Michael Burke discuss how to identify high-impact problems that can help both newcomers and veterans alike to focus on what matters to succeed!
+### Michael Burke's Hybrid Zoom Talk 
+- October 8th, 2:00 PM to 3:00 PM
+- Location: Web Lab M03-732
+- Zoom Link: [https://umassboston.zoom.us/s/96847088237](https://umassboston.zoom.us/s/96847088237)
+- Michael, from Paul English’s team, will guide you through one of the toughest aspects of a hackathon: selecting the right problem. Come listen to Michael Burke discuss how to identify high-impact problems that can help both newcomers and veterans alike to focus on what matters to succeed!
 
-Kurt Klopmeier's Hybrid Zoom Talk 
-October 10th, 12:00 PM to 1:00 PM
-Location: Campus Center Room 3545; Room Subject To Change
-Zoom Link: https://umassboston.zoom.us/j/94215755616
-Building a Cover Letter/Resume utilizing AI for assistance talk with Kurt Klopmeier (ACES, our Career Services): Come join this collaborative talk with the team at ACES to discuss not only the proper steps to take to make an effective resume and cover letter, but also how we can incorporate AI as a learning tool to assist in this process!
+### Kurt Klopmeier's Hybrid Zoom Talk 
+- October 10th, 12:00 PM to 1:00 PM
+- Location: Campus Center Room 3545; Room Subject To Change
+- Zoom Link: [https://umassboston.zoom.us/j/94215755616](https://umassboston.zoom.us/j/94215755616)
+- Building a Cover Letter/Resume utilizing AI for assistance talk with Kurt Klopmeier (ACES, our Career Services): Come join this collaborative talk with the team at ACES to discuss not only the proper steps to take to make an effective resume and cover letter, but also how we can incorporate AI as a learning tool to assist in this process!
 
   
 <!--
