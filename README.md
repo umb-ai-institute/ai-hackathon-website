@@ -32,14 +32,31 @@ Create an application that helps forecast UMB shuttle arrival times and how crow
 
 ## Registration & Submission
 
-- Registration Form: 
-- Submission Form: 
+- Registration Form: (Will be available on Oct 7th)
+- Submission Form: (Will be available on Oct 14th)
 
-## Guests from Paul’s Team
+## AI Hackathon Kick-off Events
 
-- Mike Burke (Expected to be unavailable after 10/18)
-- Kate Tyshchenko (Willing to be in-person for part)
+Kate Tyshchenko's Hybrid Zoom Talk
+October 7th, 2:00 PM to 3:00 PM 
+Location: Web Lab M03-732
+Zoom Link: https://umassboston.zoom.us/s/94324204193
+Minimum Viable Product (MVP) Talk with Kate Tyshchenko: A Minimum Viable Product is the simplest version of a product that can be released to test an idea with users.  Kate, from Paul English’s team, will discuss key strategies and practical tools (including AI tools) that can be used to speed up the process of creating a MVP to gather early user feedback and reduce risk.
 
+Michael Burke's Hybrid Zoom Talk 
+October 8th, 2:00 PM to 3:00 PM
+Location: Web Lab M03-732
+Zoom Link: https://umassboston.zoom.us/s/96847088237
+Michael, also from Paul English’s team, will guide you through one of the toughest aspects of a hackathon: selecting the right problem. Come listen to Michael Burke discuss how to identify high-impact problems that can help both newcomers and veterans alike to focus on what matters to succeed!
+
+Kurt Klopmeier's Hybrid Zoom Talk 
+October 10th, 12:00 PM to 1:00 PM
+Location: Campus Center Room 3545; Room Subject To Change
+Zoom Link: https://umassboston.zoom.us/j/94215755616
+Building a Cover Letter/Resume utilizing AI for assistance talk with Kurt Klopmeier (ACES, our Career Services): Come join this collaborative talk with the team at ACES to discuss not only the proper steps to take to make an effective resume and cover letter, but also how we can incorporate AI as a learning tool to assist in this process!
+
+  
+<!--
 ## Schedule
 
 - **10/7**: Open registration for the Hackathon. Registration is not required for participation but will help us plan food and prizes.
@@ -61,3 +78,4 @@ Create an application that helps forecast UMB shuttle arrival times and how crow
 - **10/30**: Prizes will be awarded and presentations given during the AI Symposium.
 
 For each hybrid event (Mike and Kate’s talks, Kick-off, and Closing ceremonies), we will have A/V set up for all participants to see and hear each other. Conference room equipment will facilitate this.
+-->
