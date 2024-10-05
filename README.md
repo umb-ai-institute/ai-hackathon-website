@@ -76,7 +76,7 @@ Create an application that helps forecast UMB shuttle arrival times and how crow
 
 ### Kurt Klopmeier's Hybrid Zoom Talk 
 - October 9th, 12:00 PM to 1:00 PM
-- Location: Campus Center Room 3545; Room Subject To Change
+- Location: University Hall, 2nd floor, Classroom 2330
 - Zoom Link: [https://umassboston.zoom.us/j/94215755616](https://umassboston.zoom.us/j/94215755616)
 - Building a Cover Letter/Resume utilizing AI for assistance talk with Kurt Klopmeier (ACES, our Career Services): Come join this collaborative talk with the team at ACES to discuss not only the proper steps to take to make an effective resume and cover letter, but also how we can incorporate AI as a learning tool to assist in this process!
 
