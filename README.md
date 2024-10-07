@@ -2,7 +2,9 @@
 
 ## Registration & Submission
 
-- Registration Form: (Will be available on Oct 7th until Oct 20th)
+- Registration Form: [https://forms.office.com/r/pfNqpCfeKN?origin=lprLink](https://forms.office.com/r/pfNqpCfeKN?origin=lprLink) <br>
+  (Will be available on Oct 7th until Oct 20th)
+  
 - Submission Form: (Will be available on Oct 14th until Oct 20th)
 
 ## Contact and Questions
