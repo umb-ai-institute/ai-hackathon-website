@@ -1,5 +1,8 @@
 # 2024 Fall AI Application Hackathon
 
+## Pages
+- [Project Idea Bank](./proposals.md): Ideas proposed by external people including UMB alumni that teams can take on to address *real-world business needs*!
+
 ## Registration & Submission
 
 - Registration Form: [https://forms.office.com/r/pfNqpCfeKN?origin=lprLink](https://forms.office.com/r/pfNqpCfeKN?origin=lprLink) <br>
