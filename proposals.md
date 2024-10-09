@@ -1,8 +1,9 @@
 # 💡 AI Application External Proposals / Idea Bank💡
-
-Here are some project ideas proposed by various external sources, addressing their specific business needs! Feel free to take on these projects for the PEAI Hackathon! Additionally, you can reach out to the hackathon staff to be put in touch with the individuals who proposed the ideas if you think it would be helpful.
+Here are some project ideas proposed by various external sources, addressing their specific business needs! Feel free to take on these projects for the PEAI Hackathon! Additionally, you can reach out to the individuals who proposed the ideas for more information!
 
 ## 1. Career Alignment
+
+**Proposed by:** Lisa Leger *[lisajleger@gmail.com](mailto:lisajleger@gmail.com)*
 
 ### Case Scenario
 A job seeker with diverse skills and interests in various areas of for-profit and nonprofit work is struggling to find suitable opportunities through online job sites.
@@ -21,6 +22,8 @@ An AI application that:
 
 ## 2. Build Public Awareness for Teen Life Coaching Services
 
+**Proposed by:** Cyndy Etler *[cyndy@theteenlifecoach.com](mailto:cyndy@theteenlifecoach.com)*
+
 ### Case Scenario
 A teen life coaching business needs to increase awareness and attract ideal customers without significant time or monetary investment from the business owner.
 
@@ -36,6 +39,8 @@ A solution that:
 - Greater awareness of the business among parents seeking support for their teens' mental health, social issues, academic struggles, and anxiety
 
 ## 3. Scan Negative Information First (SNIF)
+
+**Proposed by:** Gil Burden *[gilb2b@hotmail.com](mailto:gilb2b@hotmail.com)*
 
 ### Case Scenario
 A system for detecting unauthorized hardware changes and potential threats in electronic devices.
@@ -56,6 +61,8 @@ A crawler that:
 - Improved security through scan and control mechanisms
 
 ## 4. Early Pancreatic Cancer Detection
+
+**Proposed by:** Julianna and Natalie RN *[Jklozynsky@gmail.com](mailto:Jklozynsky@gmail.com)*
 
 ### Case Scenario
 Research on identifying early symptoms of pancreatic cancer, focusing on the period 6 months to 1 year before diagnosis.
