@@ -71,19 +71,19 @@ Create an application that helps forecast UMB shuttle arrival times and how crow
 ### Kate Tyshchenko's Hybrid Zoom Talk
 - October 7th, 2:00 PM to 3:00 PM 
 - Location: Web Lab M03-732
-- [**Zoom Recording:**](https://umassboston.zoom.us/rec/share/szav3DmfDB7Qo_uzXy2q36MyRO3MN86OkyMaJkQkF6juJHGkPlqRpatYOJz7niC5.95rLcE_63BKq-aJb) and Passcode: 8^fNi.vp
+- [**Zoom Recording:**](https://umassboston.zoom.us/rec/share/szav3DmfDB7Qo_uzXy2q36MyRO3MN86OkyMaJkQkF6juJHGkPlqRpatYOJz7niC5.95rLcE_63BKq-aJb) and Passcode: **8^fNi.vp**
 - Minimum Viable Product (MVP) Talk with Kate Tyshchenko: A Minimum Viable Product is the simplest version of a product that can be released to test an idea with users.  Kate, from Paul English’s team, will discuss key strategies and practical tools (including AI tools) that can be used to speed up the process of creating a MVP to gather early user feedback and reduce risk.
 
 ### Michael Burke's Hybrid Zoom Talk 
 - October 8th, 2:00 PM to 3:00 PM
 - Location: Web Lab M03-732
-- [**Zoom Recording:**](https://umassboston.zoom.us/rec/share/pFCQXBl27giv5_iPLNugF38rXga1gTGOwlqmRVtU5-Tbnp4c6N6qLL3tP2siZfyu.kHF-7vOJ3Df8Qf7H) and Passcode: B6v4U!vy
+- [**Zoom Recording:**](https://umassboston.zoom.us/rec/share/pFCQXBl27giv5_iPLNugF38rXga1gTGOwlqmRVtU5-Tbnp4c6N6qLL3tP2siZfyu.kHF-7vOJ3Df8Qf7H) and Passcode: **B6v4U!vy**
 - Michael, from Paul English’s team, will guide you through one of the toughest aspects of a hackathon: selecting the right problem. Come listen to Michael Burke discuss how to identify high-impact problems that can help both newcomers and veterans alike to focus on what matters to succeed!
 
 ### Kurt Klopmeier's Hybrid Zoom Talk 
 - October 9th, 12:00 PM to 1:00 PM
 - Location: University Hall, 2nd floor, Classroom 2330
-- [**Zoom Recording:**](https://umassboston.zoom.us/rec/share/_L8-2opJ6TeGVZmDBY8y-Da4dCdy9px2HB5o2IKSB_4WDO8baz5oYrPgXGC3CUib.notZnh42rc_T1Va4) Passcode: A8x++mxV
+- [**Zoom Recording:**](https://umassboston.zoom.us/rec/share/_L8-2opJ6TeGVZmDBY8y-Da4dCdy9px2HB5o2IKSB_4WDO8baz5oYrPgXGC3CUib.notZnh42rc_T1Va4) Passcode: **A8x++mxV**
 - Building a Cover Letter/Resume utilizing AI for assistance talk with Kurt Klopmeier (ACES, our Career Services): Come join this collaborative talk with the team at ACES to discuss not only the proper steps to take to make an effective resume and cover letter, but also how we can incorporate AI as a learning tool to assist in this process!
 
   
