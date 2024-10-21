@@ -9,7 +9,7 @@
   (Will be available on Oct 7th until Oct 20th)
   
 - Submission Form: [https://forms.office.com/r/gFtja587vM?origin=lprLink](https://forms.office.com/r/gFtja587vM?origin=lprLink) <br>
-  (Will be available on Oct 14th until Oct 20th)
+  (Will be available on Oct 14th until Oct 21th)
 
 ## Contact and Questions
 For help with team projects and technical help, reach out on Teams.
@@ -96,7 +96,7 @@ Create an application that helps forecast UMB shuttle arrival times and how crow
 - **10/7-10/20**: Hackathon
 - **Tuesday 10/8 2-3PM**: Mike Burke's - Hybrid Zoom Talk [https://umassboston.zoom.us/s/96847088237](https://umassboston.zoom.us/s/96847088237)
 - **Wednesday 10/9 12-1PM**: Kurt Klopmeier's Hybrid Zoom Talk - [https://umassboston.zoom.us/j/94215755616](https://umassboston.zoom.us/j/94215755616)
-- **Sunday 10/20 Noon**, teams will submit their work for review. A closing ceremony will provide participants a chance to debrief, talk with others,
+- **Sunday 10/21 Noon**, teams will submit their work for review. A closing ceremony will provide participants a chance to debrief, talk with others,
   and enjoy refreshments.
 - Team submissions will be given to the Provost and Paul English to judge.
 - **Sunday 10/27 Noon**: Winning teams will be notified and invited to talk at the AI Symposium.
