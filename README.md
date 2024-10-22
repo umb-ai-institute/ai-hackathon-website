@@ -33,7 +33,7 @@ Two members of Paul English’s team will be available to help guide and shape p
 
 ### Results
 
-Teams will submit their results in the form of a working demo or “slide-ware.” Slide-ware is when the idea is thoroughly explored and presented but not built, ideal for projects that involve more technical work than can realistically be accomplished in the allotted time. Working demos are any tools that are usable to show the function of the team’s project.
+Teams will submit their results in the form of a working demo and “slide-ware.” Slide-ware is when the idea is thoroughly explored and presented but not built, ideal for projects that involve more technical work than can realistically be accomplished in the allotted time. Working demos are any tools that are usable to show the function of the team’s project.
 
 ### Team Size and Composition
 
